@@ -1,0 +1,8 @@
+Nom : Diamond DA40
+Masse : 900.00
+Surface : 12.50
+CLmax : 1.60
+Rho : 1.225
+CD0 : 0.026
+k : 0.043
+Poussee : 1400.00
